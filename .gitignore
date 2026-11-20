@@ -1,0 +1,17 @@
+# Licensed survey data and every file derived from it stay out of the
+# repository (see README, "Data availability"): place the World Bank IHPS
+# files in data/raw (or point global RESTRICTED to them) and run run_all.do.
+data/derived/*
+!data/derived/.gitkeep
+data/raw/ihps/*
+data/raw/ihps_long/*
+data/raw/conversion/*
+data/raw/links/*
+data/raw/maps/*
+!data/raw/*/.gitkeep
+
+# Everything the code writes to output/ is left out of the repository: run
+# run_all.do to produce the logs, results, figures, tables and numbers.
+output/**
+!output/**/
+!output/**/.gitkeep

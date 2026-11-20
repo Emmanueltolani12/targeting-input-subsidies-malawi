@@ -1,0 +1,7 @@
+% layout of the tables written by jt (code/ado/report_helpers.do)
+\newsavebox{\jtbox}\newlength{\jtw}
+\newcommand{\jtcaption}[1]{\gdef\jtcap{#1}}
+\newenvironment{jttab}[1]{\begin{lrbox}{\jtbox}\setlength{\tabcolsep}{5pt}\renewcommand{\arraystretch}{0.9}\begin{tabular}{#1}}{\end{tabular}\end{lrbox}%
+  \global\jtw=\wd\jtbox\relax\ifdim\jtw>\textwidth\global\jtw=\textwidth\relax\fi
+  \begin{minipage}{\jtw}\caption*{\jtcap}\resizebox{\jtw}{!}{\usebox{\jtbox}}\end{minipage}}
+\newcommand{\jtnotes}[1]{\par\vspace{2pt}\begin{minipage}{\jtw}\footnotesize\textit{Note:} #1\end{minipage}}

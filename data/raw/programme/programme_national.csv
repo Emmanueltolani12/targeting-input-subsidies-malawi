@@ -1,0 +1,323 @@
+season,programme,measure,value,unit,source_id,location_in_source,note
+2005/06,FISP,base_coupons_printed_allocated,2740000,coupons,dorward_2007_aisp_interim,"section 3.2, printed p.10 (PDF p.17)","Source: '2.74 (some sources report 2.84) million base coupons'. Chinsinga p.9: MoA 'originally produced 2.8 million coupons'. Table 4.3 first-round allocations: 2,000,120 maize + 740,000 tobacco coupons."
+2005/06,FISP,can_tonnes_budgeted,15000,metric tonnes,dorward_2007_aisp_interim,"Table 3.1 National row, printed p.10 (PDF p.17)","Same 15,000 in section 3.3 and Chinsinga."
+2005/06,FISP,coupons_used,2540000,coupons,dorward_2007_aisp_interim,"section 3.4, printed p.12 (PDF p.19)","MoA estimate: about 75% of 2.8m base + 0.58m supplementary; represents 127,000 t."
+2005/06,FISP,d_compound_tonnes_budgeted,22000,metric tonnes,dorward_2007_aisp_interim,"Table 3.1 National row, printed p.10 (PDF p.17)","Same 22,000 in section 3.3 and Chinsinga."
+2005/06,FISP,fertiliser_tonnes_initial_plan,70000,metric tonnes,dorward_2007_aisp_interim,"section 3.1, printed p.9 (PDF p.16)","Initial March 2005 instruction to ADMARC (per Nakhumwa 2006), split evenly 23:21:0+4S and Urea. Same in chinsinga_2007_fac_rp6 p.9."
+2005/06,FISP,fertiliser_tonnes_planned,147000,metric tonnes,dorward_2007_aisp_interim,"section 3.3, printed p.12 (PDF p.19)",'approximately 2.9 million 50kg bags'. Same total in chinsinga_2007_fac_rp6 p.9 and dorward_2008_aisp_final p.15.
+2005/06,FISP,fertiliser_tonnes_sold_admarc_sffrfm,131000,metric tonnes,dorward_2007_aisp_interim,"section 3.4, printed p.12 (PDF p.19)","ADMARC/SFFRM report; 'would represent 2.62 million coupons'. dorward_2008_aisp_final p.15 gives 131,803 t."
+2005/06,FISP,fertiliser_tonnes_sold_admarc_sffrfm,131803,metric tonnes,dorward_2008_aisp_final,"section 2.4, printed p.15 (PDF p.25)",'which would represent 2.62 million coupons'
+2005/06,FISP,fertiliser_tonnes_sold_moa_estimate,127000,metric tonnes,dorward_2007_aisp_interim,"section 3.4, printed p.12 (PDF p.19)",Based on coupons used (MoA). Same in chinsinga_2007_fac_rp6 p.9.
+2005/06,FISP,maize_fertiliser_coupons_first_round_national,2000120,coupons,dorward_2007_aisp_interim,"Table 4.3 National row, printed p.24 (PDF p.31)","Urea & NPK, 1st-round allocation only."
+2005/06,FISP,maize_fertiliser_sales_national,2179718,50kg bags (column Sales),dorward_2007_aisp_interim,"Table 4.3 National row, printed p.24 (PDF p.31)","Urea & NPK. District rows sum to 2,179,719."
+2005/06,FISP,npk_23_21_tonnes_budgeted,50000,metric tonnes,dorward_2007_aisp_interim,"Table 3.1 National row, printed p.10 (PDF p.17)",Budgeted subsidised sales (Nakhumwa 2006 data).
+2005/06,FISP,npk_23_21_tonnes_planned,55000,metric tonnes,dorward_2007_aisp_interim,"section 3.3, printed p.12 (PDF p.19)","CONFLICT: Table 3.1 (p.10) of the same report gives 50,000 (23:21) and 50,006 (Urea) budgeted; chinsinga_2007_fac_rp6 p.9 gives 50,000 each."
+2005/06,FISP,opv_maize_seed_tonnes,6000,metric tonnes,dorward_2007_aisp_interim,"section 3.1, printed p.9 (PDF p.16)",Sold without coupons at MK150/3kg.
+2005/06,FISP,programme_budget,4.7,MWK billion,chinsinga_2007_fac_rp6,printed p.9-10 (PDF pp.11-12),Approved budget line; p.9 gives 'about US $ 35 million'.
+2005/06,FISP,programme_budget,35,"USD million (approximate, as stated)",chinsinga_2007_fac_rp6,printed p.9 (PDF p.11),'MK 4.7 billion (about US $ 35 million)'.
+2005/06,FISP,programme_budget,5.1,MWK billion,dorward_2007_aisp_interim,"section 3.5, printed p.13 (PDF p.20)",CONFLICT: chinsinga_2007_fac_rp6 p.10 says Parliament approved MK4.7 billion.
+2005/06,FISP,programme_cost,7.1,MWK billion,chinsinga_2007_fac_rp6,"section 3.1, printed p.10 (PDF p.12)",'about 8.3 per cent of the total budget for the 2005/2006 fiscal year'.
+2005/06,FISP,programme_cost,7.2,MWK billion,dorward_2007_aisp_interim,"section 3.5, printed p.13 (PDF p.20)","'direct costs of purchase and distribution of fertilizer, net of sales receipts'; excludes overheads. Same in dorward_2008_aisp_final p.15. CONFLICT: chinsinga_2007_fac_rp6 p.10 gives MK7.1 billion."
+2005/06,FISP,supplementary_coupons_issued,583000,coupons,dorward_2007_aisp_interim,"section 3.2, printed p.10 (PDF p.17)",Chinsinga p.9: 0.58 (million) supplementary coupons added.
+2005/06,FISP,supplementary_coupons_printed,1100000,coupons,dorward_2007_aisp_interim,"section 3.2, printed p.10 (PDF p.17)",'about 1.1 million of these were printed'
+2005/06,FISP,tobacco_fertiliser_coupons_first_round_national,740000,coupons,dorward_2007_aisp_interim,"Table 4.3 National row, printed p.24 (PDF p.31)",CAN & D Compound.
+2005/06,FISP,tobacco_fertiliser_sales_national,448039,50kg bags (column Sales),dorward_2007_aisp_interim,"Table 4.3 National row, printed p.24 (PDF p.31)",CAN & D Compound.
+2005/06,FISP,urea_tonnes_budgeted,50006,metric tonnes,dorward_2007_aisp_interim,"Table 3.1 National row, printed p.10 (PDF p.17)",
+2005/06,FISP,urea_tonnes_planned,55000,metric tonnes,dorward_2007_aisp_interim,"section 3.3, printed p.12 (PDF p.19)","CONFLICT as above (50,006 in Table 3.1; 50,000 in Chinsinga)."
+2006/07,FISP,cost_fertiliser_admarc_sffrfm_channel_mwk,8695680942,MWK,moa_lu_2007_aisp0607_final,"PDF p.4, text: ""The known gross cost to Government of making 125,437 MTS of fertiliser available for sale through ADMARC and SFFRFM, exclusive of SFFRFM/ADMARC operational costs, was MK 8,695,680,942.""",Excludes ADMARC/SFFRFM operational costs and the private-retailer voucher cost.
+2006/07,FISP,cost_retail_fertiliser_vouchers_mwk,2440437425,MWK,moa_lu_2007_aisp0607_final,"PDF p.4, text: ""farmers buying 49,251 MTS of fertiliser through the private retailers was MK2, 440,437,425.""","Printed 'MK2, 440,437,425'."
+2006/07,FISP,cost_seed_vouchers_mwk,731592800,MWK,moa_lu_2007_aisp0607_final,"PDF p.5, text: ""1,828,982 vouchers were subsequently redeemed at a cost of MK 731,592,800.00.""",
+2006/07,FISP,fertiliser_coupons_initial,3000000,vouchers,moa_lu_2007_aisp0607_final,"PDF p.4, text: ""3 million fertiliser vouchers (1.3 million NPK, 1.3 million Urea, 0.2 million D Compound, and""",Delivered to districts in October 2006.
+2006/07,FISP,fertiliser_coupons_supplementary,1002568,vouchers,moa_lu_2007_aisp0607_final,"PDF p.4, text: ""A further 1,002,568 million vouchers (429,980 NPK, 572,588 Urea) were printed""","Printed as '1,002,568 million'; the district table of the December print sums to 1,002,560."
+2006/07,FISP,fertiliser_tonnes_bought_by_farmers,174688,MT,moa_lu_2007_aisp0607_final,"PDF p.4, text: ""174,688 MTS of fertiliser were bought by farmers through the 2006 agricultural inputs""",
+2006/07,FISP,fertiliser_tonnes_sold_admarc_sffrfm,125437,MT,moa_lu_2007_aisp0607_final,"PDF p.4, text: ""ADMARC and SFFRFM were responsible for selling 125,437 MTS of the fertiliser purchased""",
+2006/07,FISP,fertiliser_tonnes_sold_private_retailers,49251,MT,moa_lu_2007_aisp0607_final,"PDF p.4, text: ""The balance of 49,251 MTS (28%) was sold through 7 private retailers""",
+2006/07,FISP,maize_seed_coupons,2000000,vouchers,moa_lu_2007_aisp0607_final,"PDF p.5, text: ""2 million seed vouchers were delivered into the districts in October""",
+2006/07,FISP,maize_seed_coupons_redeemed,1828982,vouchers,moa_lu_2007_aisp0607_final,"PDF p.5, text: ""1,828,982 vouchers were subsequently redeemed at a cost of MK 731,592,800.00.""",
+2006/07,FISP,maize_seed_tonnes_hybrid,2767,MT,moa_lu_2007_aisp0607_final,"PDF p.5, text: ""2,767 MTS hybrid and 1,757 MTS OPV.""",
+2006/07,FISP,maize_seed_tonnes_opv,1757,MT,moa_lu_2007_aisp0607_final,"PDF p.5, text: ""2,767 MTS hybrid and 1,757 MTS OPV.""",
+2007/08,FISP,cost_fertiliser_admarc_sffrfm_channel_mwk,13555878022,MWK,moa_lu_2008_aisp0708_final,"PDF p.4, text: ""sale through ADMARC and SFFRFM, exclusive of SFFRFM/ADMARC operational costs, was MK 13,555,878,022""",Excludes ADMARC/SFFRFM operational costs.
+2007/08,FISP,cost_retail_fertiliser_vouchers_mwk,3434069380,MWK,moa_lu_2008_aisp0708_final,"PDF p.4, text: ""The balance of 50,719 MTS (24%) was sold at a total cost of MK 3,434,069,380 through 8""",
+2007/08,FISP,cost_total_programme_mwk,16313582970,MWK,moa_lu_2008_aisp0708_final,"PDF p.26, text: ""Rebagging costs (SFFRFM)""","Programme Costs (MK) table, Total cost row (value 16,313,582,970; table spans PDF p.25-26); excludes ADMARC operational costs and uncertified voucher printing (table footnotes)."
+2007/08,FISP,fertiliser_coupons,3276000,vouchers,moa_lu_2008_aisp0708_final,"PDF p.4, text: ""3.276 million fertiliser vouchers (1.44 million NPK, 1.44 million Urea, 0.198 million D""",Printed '3.276 million'.
+2007/08,FISP,fertiliser_tonnes_bought_by_farmers,216553,MT,moa_lu_2008_aisp0708_final,"PDF p.4, text: ""216,553 MTS of fertiliser were bought by farmers through the 2007 agricultural inputs""",
+2007/08,FISP,fertiliser_tonnes_sold_admarc_sffrfm,165835,MT,moa_lu_2008_aisp0708_final,"PDF p.4, text: ""ADMARC and SFFRFM were responsible for selling 165,835 MTS of the fertiliser""",
+2007/08,FISP,fertiliser_tonnes_sold_private_retailers,50719,MT,moa_lu_2008_aisp0708_final,"PDF p.4, text: ""The balance of 50,719 MTS (24%) was sold at a total cost of MK 3,434,069,380 through 8""",
+2007/08,FISP,flexible_seed_coupons,988000,vouchers,moa_lu_2008_aisp0708_final,"PDF p.5, text: ""In addition 988,000 flexible vouchers were delivered into the districts in November""",
+2007/08,FISP,maize_seed_coupons,1930000,vouchers,moa_lu_2008_aisp0708_final,"PDF p.5, text: ""1.93 million maize seed vouchers were delivered into the districts in November""","Printed '1.93 million'; plus 988,000 flexible vouchers."
+2007/08,FISP,maize_seed_coupons_redeemed,2121647,vouchers,moa_lu_2008_aisp0708_final,"PDF p.5, text: ""2,121,647 vouchers covering both types of vouchers were subsequently redeemed for""",Maize-only plus flexible vouchers redeemed for maize seed.
+2007/08,FISP,maize_seed_tonnes_hybrid,2944,MT,moa_lu_2008_aisp0708_final,"PDF p.5, text: ""amounted to 2,944 MTS hybrid and 2,597 MTS OPV.""",
+2007/08,FISP,maize_seed_tonnes_opv,2597,MT,moa_lu_2008_aisp0708_final,"PDF p.5, text: ""amounted to 2,944 MTS hybrid and 2,597 MTS OPV.""",
+2008/09,FISP,cost_fertiliser_net_mwk,36751153959,MWK,moa_lu_2009_aisp0809_final,"PDF p.4, text: ""Net cost of the above fertiliser was MK 36,751,153,959""","Cost of the 218,462 MT provided."
+2008/09,FISP,cost_total_programme_mwk,39827998362,MWK,moa_lu_2009_aisp0809_final,"PDF p.5, text: ""The known costs of the subsidy programme, exclusive of ADMARC/SFFRFM/MoA HQ, bank charges and district operational costs etc was MK 39,827,998,362.""","Known costs, exclusive of ADMARC/SFFRFM/MoA HQ, bank charges and district operational costs."
+2008/09,FISP,fertiliser_coupons,3926000,vouchers,moa_lu_2009_aisp0809_final,"PDF p.4, text: ""3.926 million fertiliser vouchers (1.758 million NPK, 1.768 million Urea, 0.200 million D Compound, and 0.200 million CAN""",'According to Ministry of Agriculture information'; printed '3.926 million'.
+2008/09,FISP,fertiliser_tonnes_bought_by_farmers,202278,MT,moa_lu_2009_aisp0809_final,"PDF p.4, text: ""202,278 MTS of fertiliser were bought by farmers through the 2008/09 agricultural""",
+2008/09,FISP,fertiliser_tonnes_provided,218462,MT,moa_lu_2009_aisp0809_final,"PDF p.4, text: ""Government provided a total of 218,462 MTS for distribution in the subsidy scheme.""",
+2008/09,FISP,flexible_seed_coupons,1000000,vouchers,moa_lu_2009_aisp0809_final,"PDF p.5, text: ""In addition 1,000,000 flexible vouchers were to be distributed to farmers in the districts""",
+2008/09,FISP,maize_seed_coupons,1500000,vouchers,moa_lu_2009_aisp0809_final,"PDF p.5, text: ""1.5 million maize seed vouchers were to be distributed to farmers in the districts""",
+2008/09,FISP,maize_seed_tonnes_hybrid,4532,MT,moa_lu_2009_aisp0809_final,"PDF p.5, text: ""amounted to 4,532 MTS hybrid and 833 MTS OPV.""",
+2008/09,FISP,maize_seed_tonnes_opv,833,MT,moa_lu_2009_aisp0809_final,"PDF p.5, text: ""amounted to 4,532 MTS hybrid and 833 MTS OPV.""",
+2009/10,FISP,beneficiaries_target,1600000,farmers,moa_lu_2010_fisp0910_final,"PDF p.3, text: ""The programme was to embrace 1.6 million farmers and required the""",Printed '1.6 million'.
+2009/10,FISP,cost_total_declared_mwk,17140791376,MWK,moa_lu_2010_fisp0910_final,"PDF p.6, text: ""The declared costs of the subsidy programme, exclusive of bank charges, MoA HQ and district operational costs, voucher printing etc was understood to be MK 17,140,791,376.00""",
+2009/10,FISP,fertiliser_coupons,3200000,vouchers,moa_lu_2010_fisp0910_final,"PDF p.4, text: ""fertiliser vouchers (1.6 million NPK, 1.6 million urea) to selected farmers in all the""",'distributed 3.2 million fertiliser vouchers'.
+2009/10,FISP,fertiliser_coupons_redeemed,3230175,vouchers,moa_lu_2010_fisp0910_final,"PDF p.5, text: ""The total number of fertiliser vouchers recovered was 3,230,175 against 3,200,000""",
+2009/10,FISP,fertiliser_tonnes_distributed,159585.32,MT,moa_lu_2010_fisp0910_final,"PDF p.5, text: ""159,585.32 MTS of fertiliser were distributed through""",
+2009/10,FISP,fertiliser_tonnes_target,160000,MT,moa_lu_2010_fisp0910_final,"PDF p.3, text: ""distribution of 160,000 MTS of fertiliser.""",
+2009/10,FISP,legume_seed_tonnes,1550.92,MT,moa_lu_2010_fisp0910_final,"PDF p.6, text: ""The legume seed provided amounted in total to 1,550.92 MTS""",
+2009/10,FISP,maize_seed_coupons_redeemed,1627139,vouchers,moa_lu_2010_fisp0910_final,"PDF p.6, text: ""Submitted maize vouchers totalled 1,627,139 against""",
+2009/10,FISP,maize_seed_tonnes_hybrid,7619,MT,moa_lu_2010_fisp0910_final,"PDF p.6, text: ""amounted to 7,619 MTS hybrid and 1,033 MTS OPV.""",
+2009/10,FISP,maize_seed_tonnes_opv,1033,MT,moa_lu_2010_fisp0910_final,"PDF p.6, text: ""amounted to 7,619 MTS hybrid and 1,033 MTS OPV.""",
+2010/11,FISP,beneficiaries_registered,1598200,farmers,moa_lu_2011_fisp1011_final,"PDF p.4, text: ""beneficiary allocation registers. The final analysis indicates that 1,598,200""",
+2010/11,FISP,beneficiaries_target,1600000,farmers,moa_lu_2011_fisp1011_final,"PDF p.3, text: ""The programme was once again to embrace 1.6 million farmers and required""",Printed '1.6 million'.
+2010/11,FISP,cost_fertiliser_gross_mwk,17470953865,MWK,moa_lu_2011_fisp1011_final,"PDF p.5, text: ""Gross cost of the 160,000 MTS new fertiliser commissioned in 2010 was MK 17,470,953,865.""",
+2010/11,FISP,fertiliser_coupons_redeemed,3182770,vouchers,moa_lu_2011_fisp1011_final,"PDF p.5, text: ""total number of fertiliser vouchers recovered was 3,182,770 against""","Includes 133,185 duplicate and 3,348 out-of-range vouchers (same paragraph)."
+2010/11,FISP,fertiliser_tonnes_distributed,160531,MT,moa_lu_2011_fisp1011_final,"PDF p.5, text: ""completion, 160,531 MTS of fertiliser were distributed to farmers through""",
+2010/11,FISP,fertiliser_tonnes_target,160000,MT,moa_lu_2011_fisp1011_final,"PDF p.3, text: ""the distribution of 160,000 MTS of fertiliser.""",
+2010/11,FISP,legume_seed_tonnes,2727,MT,moa_lu_2011_fisp1011_final,"PDF p.6, text: ""The legume seed provided amounted in total to 2,727 MTS.""",
+2010/11,FISP,maize_seed_coupons_redeemed,1988066,vouchers,moa_lu_2011_fisp1011_final,"PDF p.6, text: ""Maize vouchers accepted by the Logistics Unit totalled 1,988,066 against""",
+2010/11,FISP,maize_seed_tonnes_hybrid,8521,MT,moa_lu_2011_fisp1011_final,"PDF p.6, text: ""vouchers amounted to 8,521 MTS hybrid and 2,129 MTS OPV.""",
+2010/11,FISP,maize_seed_tonnes_opv,2129,MT,moa_lu_2011_fisp1011_final,"PDF p.6, text: ""vouchers amounted to 8,521 MTS hybrid and 2,129 MTS OPV.""",
+2011/12,FISP,beneficiaries_target,1400000,farmers,moa_lu_2012_fisp1112_final,"PDF p.3, text: ""The programme was reduced from last year to target 1.4 million farmers""",Printed '1.4 million'.
+2011/12,FISP,cost_fertiliser_gross_mwk,18668407190,MWK,moa_lu_2012_fisp1112_final,"PDF p.5, text: ""Gross cost of the 140,000 MTS new fertiliser commissioned in 2011 was MK 18,668,407,190.""",
+2011/12,FISP,fertiliser_coupons_redeemed,2731640,vouchers,moa_lu_2012_fisp1112_final,"PDF p.5, text: ""total number of fertiliser vouchers recovered was 2,731,640 against""",
+2011/12,FISP,fertiliser_tonnes_distributed,139901,MT,moa_lu_2012_fisp1112_final,"PDF p.5, text: ""MTS of fertiliser was distributed through the 2011/12 agricultural inputs""","Value printed on the preceding line ('139,901 MTS of fertiliser was distributed')."
+2011/12,FISP,fertiliser_tonnes_target,140000,MT,moa_lu_2012_fisp1112_final,"PDF p.3, text: ""against the previous 1.6 million and required the distribution of 140,000 MTS""",
+2012/13,FISP,beneficiaries,1544400,farmers,moa_lu_2013_fisp1213_final,"PDF p.4, text: ""This target was subsequently increased to 1,544,400 raising the required fertiliser to""",Initial target 1.5 million.
+2012/13,FISP,cost_fertiliser_mwk,43620017579,MWK,moa_lu_2013_fisp1213_final,"PDF p.6, text: ""this cost was calculated to total MK 43,620,017,579.""",Required Malawi Government disbursements in MWK for the fertiliser purchase.
+2012/13,FISP,cost_fertiliser_usd,129022749,USD,moa_lu_2013_fisp1213_final,"PDF p.6, text: ""Gross cost in US dollars of the 154,439.90 MTS new fertiliser purchased in 2012 was $ 129,022,749.""",
+2012/13,FISP,fertiliser_coupons,3088800,vouchers,moa_lu_2013_fisp1213_final,"PDF p.6, text: ""Ministry of Agriculture and Food Security were then charged with distributing 3,088,800""","Printed '3,088,800 million fertiliser vouchers'."
+2012/13,FISP,fertiliser_coupons_redeemed,2978892,vouchers,moa_lu_2013_fisp1213_final,"PDF p.7, text: ""number of fertiliser vouchers recovered was 2,978,892 against 3,088,800 authorised to""",
+2012/13,FISP,fertiliser_tonnes_distributed,153846.2,MT,moa_lu_2013_fisp1213_final,"PDF p.7, text: ""153,846.20 MTS of fertiliser was distributed through the 2012/13 agricultural inputs""",
+2012/13,FISP,fertiliser_tonnes_target,154440,MT,moa_lu_2013_fisp1213_final,"PDF p.4, text: ""154,440 MTS.""",
+2013/14,FISP,beneficiaries_target,1500000,farmers,moa_lu_2014_fisp1314_final,"PDF p.3, text: ""2013/14 was to target 1.5 million farmers. This required the distribution of 150,000""",Printed '1.5 million'.
+2013/14,FISP,cost_fertiliser_usd,111346680,USD,moa_lu_2014_fisp1314_final,"PDF p.7, text: ""2013/14 was $ 111,346,680 to be paid in Malawi Kwacha at the Reserve Bank of""","Cost of supply of the 150,000 MT."
+2013/14,FISP,fertiliser_coupons_redeemed,2980568,vouchers,moa_lu_2014_fisp1314_final,"PDF p.7, text: ""number of fertiliser vouchers recovered was 2,980,568 against 3,000,000""",
+2013/14,FISP,fertiliser_tonnes_distributed,149821,MT,moa_lu_2014_fisp1314_final,"PDF p.7, text: ""149,821 MTS of fertiliser was distributed to farmers through the 2013/14""",
+2013/14,FISP,fertiliser_tonnes_target,150000,MT,moa_lu_2014_fisp1314_final,"PDF p.3, text: ""2013/14 was to target 1.5 million farmers. This required the distribution of 150,000""",
+2014/15,FISP,beneficiaries,1500000,farmers receiving vouchers for fertilizer and maize seed subsidy,mof_2016_draft_pbb_1617,"Vote 190, Programme 49, Table 6.1, column 2014/2015 Actual, printed p.128 (PDF p.140)",OFFICIAL (Draft 2016/17 Programme Based Budget).
+2014/15,FISP,beneficiaries_target,1500000,smallholder farming families,nation_2014_11_fisp1415_launch,article dated 2014-11-20,NEWS. Same in nyasatimes_2014_11_fisp1415_launch and nation_2014_12_fisp1415_dispatch.
+2014/15,FISP,fertiliser_bags_budgeted,3800000,50kg bags (as stated),nation_2014_11_fisp1415_launch,article dated 2014-11-20,"NEWS. Inconsistent with 150,000 t (see previous row)."
+2014/15,FISP,fertiliser_tonnes_budgeted,150000,metric tonnes,nation_2014_11_fisp1415_launch,article dated 2014-11-20,"NEWS. Stated as '150 000 metric tons or 3.8 million 50kg bags' (note: 150,000 t equals 3.0 million 50kg bags, so the bag figure is internally inconsistent). Same 150,000 in nyasatimes_2014_11_fisp1415_launch."
+2014/15,FISP,fertiliser_tonnes_dispatched,135829,"metric tonnes (of 150,000 t; 90.6%)",nation_2014_12_fisp1415_dispatch,article dated 2014-12-30,"NEWS. Interim (as of late Dec 2014), dispatched to markets, NPK and Urea; FISP deputy coordinator."
+2014/15,FISP,fertilizer_subsidy_budget_approved,56094,MWK million (fiscal year 2014/15),mof_2015_draft_fs_1516,"Table 2 '2014/15 Budget Estimates', row Fertilizer Subsidy, printed p.14 (PDF p.14)",OFFICIAL. Government budget line (recurrent).
+2014/15,FISP,fertilizer_subsidy_budget_revised,46483,MWK million (fiscal year 2014/15),mof_2015_draft_fs_1516,"Table 2, row Fertilizer Subsidy, printed p.14 (PDF p.14)",OFFICIAL. Mid-year revised estimate; no outturn column in this table.
+2014/15,FISP,fisp_share_of_moa_budget,38.3,percent,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)","Research paper; sources 'FISP implementation Reports (2009-2019); Lunduka et al., 2013'."
+2014/15,FISP,seed_subsidy_budget_approved,5531,MWK million (fiscal year 2014/15),mof_2015_draft_fs_1516,"Table 2, row Seed Subsidy, printed p.14 (PDF p.14)",OFFICIAL.
+2014/15,FISP,seed_subsidy_budget_revised,9238,MWK million (fiscal year 2014/15),mof_2015_draft_fs_1516,"Table 2, row Seed Subsidy, printed p.14 (PDF p.14)",OFFICIAL.
+2014/15,FISP,subsidy_rate,97.0,percent of commercial price of 50kg fertiliser bag,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)",Research paper (same sources).
+2015/16,FISP,beneficiaries_target,1500000,farmers,moa_lu_2016_fisp1516_final,"PDF p.3, text: ""Once again the target was to be 1.5 million""",Printed '1.5 million'.
+2015/16,FISP,fertiliser_coupons,3000000,vouchers,moa_lu_2016_fisp1516_final,"PDF p.18, text: ""Totals 3,000,000 2,974,851 2,959,506""","District sales report table, Totals row (vouchers issued)."
+2015/16,FISP,fertiliser_coupons_redeemed,2959506,vouchers,moa_lu_2016_fisp1516_final,"PDF p.18, text: ""Totals 3,000,000 2,974,851 2,959,506""","District sales report table, Totals row (vouchers submitted)."
+2015/16,FISP,fertiliser_tonnes_delivered,148742.55,MT,moa_lu_2016_fisp1516_final,"PDF p.15, text: ""Totals 150,000.00 74,783.70 73,958.85 148,742.55""","District delivery table, Totals row (all channels)."
+2015/16,FISP,fertiliser_tonnes_target,150000,MT,moa_lu_2016_fisp1516_final,"PDF p.3, text: ""By June, the entire concept had changed. At that point it was announced that the 150,000MTS""",
+2015/16,FISP,legume_seed_coupons_redeemed,1324963,vouchers,moa_lu_2016_fisp1516_final,"PDF p.24, text: ""2,369 1,324,963""","Legume voucher returns table, National row (allocation 1,500,000)."
+2015/16,FISP,maize_seed_coupons_redeemed,1427044,vouchers,moa_lu_2016_fisp1516_final,"PDF p.23, text: ""National 1,500,000 197,156 454,470 171,264 490,805 52,568 9,899 17,409 450 1,342 3,021 26,170 2,490 1,427,044""","Maize voucher returns table, National row."
+2016/17,FISP,beneficiaries,900000,farmers,moa_lu_2017_fisp1617_final,"PDF p.3, text: ""The aim of this year's FISP was the distribution to 900,000 beneficiaries of farm""",
+2016/17,FISP,cost_voucher_redemption_total_mwk,33195367500,MWK,moa_lu_2017_fisp1617_final,"PDF p.5, text: ""Total MK33,195,367,500.00""","Table 'Payment for Inputs by Government' (Subject | Final costs | Paid | Awaiting payment), Total row, 'Final costs' column: fertiliser MK26,863,350,000 + maize seed MK4,378,260,000 + legume MK1,953,757,500 vouchers."
+2016/17,FISP,fertiliser_coupons,1800000,vouchers,moa_lu_2017_fisp1617_final,"PDF p.14, text: ""National 1,800,000 1,790,889 895,852 895,037 99%""","Redeemed voucher table, National row (allocation)."
+2016/17,FISP,fertiliser_coupons_redeemed,1790889,vouchers,moa_lu_2017_fisp1617_final,"PDF p.14, text: ""National 1,800,000 1,790,889 895,852 895,037 99%""","Redeemed voucher table, National row (recovered)."
+2016/17,FISP,fertiliser_tonnes_distributed,89511,MT,moa_lu_2017_fisp1617_final,"PDF p.4, text: ""89,511 MTS of which 44,776 MTS was NPK and 44,735 MTS was urea.""",
+2016/17,FISP,legume_seed_coupons_redeemed,780143,vouchers,moa_lu_2017_fisp1617_final,"PDF p.18, text: ""Legume voucher returns Total""","Legume voucher returns by supplier table, TOTAL row (780,143)."
+2016/17,FISP,legume_seed_tonnes,1664,MT,moa_lu_2017_fisp1617_final,"PDF p.4, text: ""Legume seed distributed totaled 1,664 MTS of which 776""",
+2016/17,FISP,maize_seed_coupons_redeemed,875656,vouchers,moa_lu_2017_fisp1617_final,"PDF p.17, text: ""TOTAL PER SEED TYPE 625,812 249,844 875,656""","Maize seed voucher returns by supplier, total."
+2016/17,FISP,maize_seed_tonnes_hybrid,3129,MT,moa_lu_2017_fisp1617_final,"PDF p.4, text: ""seed amounts distributed totaled 4,628 MTS of which 3,129 MTS was hybrid""",
+2016/17,FISP,maize_seed_tonnes_opv,1499,MT,moa_lu_2017_fisp1617_final,"PDF p.4, text: ""and 1,499 MTS OPV.""",
+2017/18,FISP,beneficiaries,900000,smallholder farmers supplied,mof_2018_aer,"section 3.2.6, printed p.23 (PDF p.26)",OFFICIAL. Each received 2 fertiliser coupons and 2 seed coupons.
+2017/18,FISP,fertiliser_tonnes,89380,metric tonnes supplied,mof_2018_aer,"section 3.2.6, printed p.23 (PDF p.26)",OFFICIAL.
+2017/18,FISP,fertilizer_purchases_likely_outturn,27000,MWK million,mof_2018_draft_fs_1819,"Table 2, printed p.17 (PDF p.17)","OFFICIAL. Approved and revised also 27,000."
+2017/18,FISP,fisp_budget_allocation,33.15,MWK billion,nation_2018_05_govt_snubs_review,article dated 2018-05-09,"NEWS; consistent with official 33,150 million."
+2017/18,FISP,fisp_budget_approved,33150,MWK million (fiscal year 2017/18),mof_2018_draft_fs_1819,"Table 2 '2017/18 Budget Performance (K' millions)', printed p.17 (PDF p.17)","OFFICIAL. Revised estimate and likely outturn are also 33,150."
+2017/18,FISP,fisp_financing,36.15,MWK billion,nyasatimes_2017_09_fisp1718_coupons,"article dated 2017-09-30, last paragraphs",NEWS. 'FISP is being financed to the tune of K36.15 billion' - CONFLICTS with K33.15 billion in budget documents (may include donor or other financing).
+2017/18,FISP,fisp_likely_outturn,33150,MWK million (fiscal year 2017/18),mof_2018_draft_fs_1819,"Table 2, column 2017/18 Likely Outturn, printed p.17 (PDF p.17)",OFFICIAL.
+2017/18,FISP,fisp_share_of_moa_budget,25.5,percent,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)",Research paper.
+2017/18,FISP,logistics_likely_outturn,1000,MWK million,mof_2018_draft_fs_1819,"Table 2 (continued), printed p.18 (PDF p.18)","OFFICIAL. Approved and revised also 1,000."
+2017/18,FISP,npk_tonnes,44755,metric tonnes supplied,mof_2018_aer,"section 3.2.6, printed p.23 (PDF p.26)",OFFICIAL.
+2017/18,FISP,seed_subsidy_likely_outturn,5150,MWK million,mof_2018_draft_fs_1819,"Table 2 (continued), printed p.18 (PDF p.18)","OFFICIAL. Approved and revised also 5,150."
+2017/18,FISP,subsidy_rate,65.2,percent of commercial price of 50kg fertiliser bag,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)",Research paper.
+2017/18,FISP,urea_tonnes,44625,metric tonnes supplied,mof_2018_aer,"section 3.2.6, printed p.23 (PDF p.26)",OFFICIAL.
+2018/19,FISP,beneficiaries_claimed,1500000,beneficiaries (as stated),nation_2019_05_takes_stock,article dated 2019-05-06,"NEWS. 'There were 1.5 million beneficiaries in the 2018/19 farming season' - CONFLICTS with the 1,000,000 target in official documents. nation_2018_05_ministries_contradict reports MoAIWD officials told Parliament 1.5 million while Treasury said 1 million and Budget Document No.5 p.197 showed 900,000."
+2018/19,FISP,beneficiaries_in_budget_document_no5,900000,beneficiaries (as reported),nation_2018_05_ministries_contradict,article dated 2018-05-30,"NEWS reporting that '2018/19 Budget Document Number Five page 197' (Programme Based Budget, not found online) indicated 900,000; Finance Minister's budget statement said 1 million; MoAIWD officials told Parliament 1.5 million; Secretary to the Treasury said 1 million is correct."
+2018/19,FISP,beneficiaries_target,1000000,farmers,moaiwd_2018_fisp1819_guidelines,section 2 (p.1) and section 7 (p.9),"OFFICIAL. Random selection by Ministry HQ; productive-farmer targeting in Dowa, Rumphi, Salima and Mwanza. Same 1,000,000 'targeted' in mof_2019_aer s.3.2.6 p.23."
+2018/19,FISP,beneficiaries_target,1000000,smallholder farmers targeted,mof_2019_aer,"section 3.2.6, printed p.23 (PDF p.25)","OFFICIAL. Report gives only the target, no achieved number."
+2018/19,FISP,beneficiaries_target,1000000,households targeted,nyasatimes_2018_08_fisp1819_target,article dated 2018-08-22 (FISP director quote),NEWS. Corroborates official 1 million target.
+2018/19,FISP,farm_input_and_seed_subsidy_allocation,40.3,MWK billion,mof_2018_budget_summary_1819,"'2018/19 Fiscal Year Budget in Summary', list of prioritised items, p.2","OFFICIAL summary. CONFLICTS with 41,250 million in the Draft Financial Statements and K42/K43 billion in news."
+2018/19,FISP,fertiliser_payments_preliminary_outturn,27500,MWK million,mof_2019_draft_fs_1920,"Table 2, printed p.14 (PDF p.14)","OFFICIAL. Approved/revised 30,000."
+2018/19,FISP,fertiliser_tonnes_planned,100000,metric tonnes,moaiwd_2018_fisp1819_guidelines,"section 3.0, p.1","OFFICIAL. 50,000 t NPK (23:10:5+6S+1.0Zn) + 50,000 t Urea."
+2018/19,FISP,fisp_budget_allocation,42,MWK billion,nation_2018_10_48_suppliers,article dated 2018-10-09,NEWS. 'allocated K42 billion in the 2018/19 National Budget out of a total of K151 billion given to the ministry'. Also in nation_2018_05_ministries_contradict and nation_2019_05_takes_stock. nation_2018_11_ghost_beneficiaries says 'Parliament approved K43 billion'.
+2018/19,FISP,fisp_budget_approved,41250,MWK million (fiscal year 2018/19),mof_2019_draft_fs_1920,"Table 2 '2018/19 Budget Performance (K' millions)', printed p.14 (PDF p.14)","OFFICIAL. Revised estimate also 41,250."
+2018/19,FISP,fisp_budget_estimate,41250,MWK million (fiscal year 2018/19),mof_2018_draft_fs_1819,"Table 3 '2018/19 Budget Framework (K' millions)', printed p.23 (PDF p.23)","OFFICIAL draft. Fertilizer purchases 30,000; seed subsidy 10,150; logistics 1,100."
+2018/19,FISP,fisp_preliminary_outturn,38593,MWK million (fiscal year 2018/19),mof_2019_draft_fs_1920,"Table 2, column 2018-19 Preliminary Outturn, printed p.14 (PDF p.14)",OFFICIAL.
+2018/19,FISP,fisp_share_of_moa_budget,26.2,percent,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)",Research paper.
+2018/19,FISP,legume_seed_tonnes_planned_max,2000,metric tonnes (maximum),moaiwd_2018_fisp1819_guidelines,"section 3.0, p.2",OFFICIAL.
+2018/19,FISP,logistics_preliminary_outturn,943,MWK million,mof_2019_draft_fs_1920,"Table 2, printed p.14 (PDF p.14)","OFFICIAL. Approved/revised 1,100."
+2018/19,FISP,maize_seed_subsidy_preliminary_outturn,10150,MWK million,mof_2019_draft_fs_1920,"Table 2, printed p.14 (PDF p.14)","OFFICIAL. Approved/revised 10,150."
+2018/19,FISP,maize_seed_tonnes_planned_max,5000,metric tonnes (maximum),moaiwd_2018_fisp1819_guidelines,"section 3.0, p.1",OFFICIAL.
+2018/19,FISP,npk_tonnes_planned,50000,metric tonnes,moaiwd_2018_fisp1819_guidelines,"section 3.0, p.1",OFFICIAL.
+2018/19,FISP,rice_seed_tonnes_planned,90,metric tonnes,moaiwd_2018_fisp1819_guidelines,"section 3.0, p.1",OFFICIAL.
+2018/19,FISP,sorghum_seed_tonnes_planned,90,metric tonnes,moaiwd_2018_fisp1819_guidelines,"section 3.0, p.1",OFFICIAL.
+2018/19,FISP,subsidy_rate,66.0,percent of commercial price of 50kg fertiliser bag,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)",Research paper.
+2018/19,FISP,urea_tonnes_planned,50000,metric tonnes,moaiwd_2018_fisp1819_guidelines,"section 3.0, p.1",OFFICIAL.
+2019/20,FISP,beneficiaries_target,900000,beneficiaries (fertilizer and seed),mof_2019_budget_statement_1920,"para 82, pp.29-30 of 55 (PDF pp.29-30); also para 73(f) p.27 of 55 (PDF p.27)","OFFICIAL. Same 900,000 in news (minister, Oct 2019) and MwAPATA Policy Brief 12."
+2019/20,FISP,fertiliser_payments_preliminary_outturn,27000,MWK million,mof_2020_draft_fs_2021,"Table 2, printed p.10 (PDF p.15)",OFFICIAL.
+2019/20,FISP,fertiliser_tonnes_planned,90000,metric tonnes,nyasatimes_2019_10_fisp1920_900000,article dated 2019-10-15,"NEWS (minister press briefing). 45,000 t NPK + 45,000 t Urea. Same in nation_2019_10_fisp1920_launch and nation_2019_10_govt_moves_to_fix."
+2019/20,FISP,fertilizer_purchases_budget,27.0,MWK billion,mof_2019_budget_statement_1920,"para 82, p.30 of 55 (PDF p.30)",OFFICIAL.
+2019/20,FISP,fisp_arrears_preliminary_outturn,2500,MWK million,mof_2020_draft_fs_2021,"Table 2 (continued), printed p.11 (PDF p.16)",OFFICIAL. Arrears line (likely relating to earlier seasons).
+2019/20,FISP,fisp_budget_allocation,35.5,MWK billion,mof_2019_budget_statement_1920,"para 82, p.29 of 55 (PDF p.29)","OFFICIAL. 'Fertilizer purchases are programed at K27.0 billion'. Mid-year review para 85 (mof_2020_midyear_review_1920, PDF p.40) keeps K35.5 billion."
+2019/20,FISP,fisp_budget_allocation,35.5,MWK billion (reduced from K40 billion),nation_2019_10_govt_moves_to_fix,article dated 2019-10-15,NEWS. 2.08% of national budget; 21.25% of K167 billion agriculture allocation (as stated).
+2019/20,FISP,fisp_budget_approved,35500,MWK million (fiscal year 2019/20),mof_2020_draft_fs_2021,"Table 2 '2019/20 Budget Performance (K' millions)', printed p.10 (PDF p.15)","OFFICIAL. Mid-year revised 35,500. Components (approved): fertilizer payments 27,000; maize seed subsidy 5,400; FISP arrears 2,500; logistics 600 (p.11)."
+2019/20,FISP,fisp_budget_proposed,35500,MWK million,mof_2019_draft_fs_1920,"Table 3 '2019/20 Budget Framework (K' millions)', printed p.22 (PDF p.22)","OFFICIAL. Fertiliser 27,000; maize seed 5,400; arrears 2,500; logistics 600."
+2019/20,FISP,fisp_expenditure_midyear,6.8,"MWK billion (spent by mid-year, against mid-year target K10.5 billion)",mof_2020_midyear_review_1920,para 36 (PDF p.19),OFFICIAL. Interim.
+2019/20,FISP,fisp_preliminary_outturn,35498,MWK million (fiscal year 2019/20),mof_2020_draft_fs_2021,"Table 2, column 2019/20 Preliminary Outturn, printed p.10 (PDF p.15)",OFFICIAL.
+2019/20,FISP,fisp_share_of_moa_budget,20.3,percent,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)",Research paper.
+2019/20,FISP,legume_seed_tonnes_planned,900,metric tonnes,nyasatimes_2019_10_fisp1920_900000,article dated 2019-10-15,NEWS ('over 900 MT' in nation_2019_10_fisp1920_launch).
+2019/20,FISP,logistics_preliminary_outturn,598,MWK million,mof_2020_draft_fs_2021,"Table 2 (continued), printed p.11 (PDF p.16)",OFFICIAL.
+2019/20,FISP,maize_seed_subsidy_preliminary_outturn,5400,MWK million,mof_2020_draft_fs_2021,"Table 2 (continued), printed p.11 (PDF p.16)",OFFICIAL.
+2019/20,FISP,maize_seed_tonnes_planned,4500,metric tonnes,nyasatimes_2019_10_fisp1920_900000,article dated 2019-10-15,"NEWS ('Over 4,500 metric tonnes')."
+2019/20,FISP,npk_tonnes_planned,45000,metric tonnes,nyasatimes_2019_10_fisp1920_900000,article dated 2019-10-15,NEWS.
+2019/20,FISP,rice_seed_tonnes_planned,50,metric tonnes,nyasatimes_2019_10_fisp1920_900000,article dated 2019-10-15,NEWS.
+2019/20,FISP,sorghum_seed_tonnes_planned,30,metric tonnes,nyasatimes_2019_10_fisp1920_900000,article dated 2019-10-15,NEWS.
+2019/20,FISP,subsidy_rate,65.8,percent of commercial price of 50kg fertiliser bag,mwapata_2021_wp2105,"Table 2, printed p.18 (PDF p.19)",Research paper.
+2019/20,FISP,urea_tonnes_planned,45000,metric tonnes,nyasatimes_2019_10_fisp1920_900000,article dated 2019-10-15,NEWS.
+2020/21,AIP,beneficiaries,3.8,million,ifpri_massp_wp44_2024_fert_subsidies,"Sec. 4, printed p.12 (PDF p.15); Annex Table 2, printed p.23 (PDF p.26)",'3.8 million beneficiaries were each offered 100 kg of subsidized fertilizer plus improved seed'. Annex Table 1 (printed p.20) instead says 'Around 3.7 million in 2020/21 & 2021/22'
+2020/21,AIP,beneficiaries,3.8,million farm families,mwapata_pb12_2021_aip_review,"Key successes, p.2","'Increased beneficiary coverage from 900,000 farm families in 2019/2020 under the FISP to 3.8 million farm families in the 2020/21'"
+2020/21,AIP,budget,158.3,MWK billion,nation_2020_11_30_behind_aip_mess,"paragraphs 'Initially sold as universal subsidy...' and 'By last week, at least 40 companies...'",NEWS. 'AIP is covering 4.2 million households for K158.3 billion'
+2020/21,AIP,budget_requirement_initial,160.2,MWK billion,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",'budget requirement ... as presented earlier'
+2020/21,AIP,budget_requirement_revised,140.2,MWK billion,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",Reduced because of reduction in targeted fertilizer and seed
+2020/21,AIP,expenditure_reported,140.2,MWK billion,nation_2021_03_31_crop_inspection,paragraph 'The minister told Parliament at the start of Mid-Year Budget Review...',"NEWS. 'government spent K140.2 billion on AIP from the initial K160.2 billion allocation in the K2.2 trillion 2020/21 National Budget' (Minister Lowe to Parliament, Feb 2021)"
+2020/21,AIP,fertiliser_planned,428000,tonnes,nation_2020_11_30_behind_aip_mess,"paragraph 'By last week, at least 40 companies...'",NEWS. '85 firms selected to supply 428 000 tonnes of fertiliser'
+2020/21,AIP,fertiliser_sold_npk,172753,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",
+2020/21,AIP,fertiliser_sold_total,345543.65,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)","Source: 91 percent of 378,810 MT target. AER 2022 prints 345,543.7. Conflict: nation_2022_05_30_farmers_pay_more_aip states 345,710 MT sold in 2020/21"
+2020/21,AIP,fertiliser_sold_urea,172790.65,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)","AER 2022 prints 172,790.7"
+2020/21,AIP,fertiliser_target_initial,427910,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",
+2020/21,AIP,fertiliser_target_revised,378810,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",Revised after the drop in validated beneficiaries
+2020/21,AIP,government_expenditure_estimated_LU_cost,51.3,MWK million,mwapata_wp2104_2021_aip_rapid,"Figure 1, printed p.5 (PDF p.6)",'LU cost' (Logistics Unit) as labelled; note unit is million
+2020/21,AIP,government_expenditure_estimated_fertiliser,117.8,MWK billion,mwapata_wp2104_2021_aip_rapid,"Figure 1, printed p.5 (PDF p.6)",Source: GoM 2021
+2020/21,AIP,government_expenditure_estimated_seed,15.4,MWK billion,mwapata_wp2104_2021_aip_rapid,"Figure 1, printed p.5 (PDF p.6)",Source: GoM 2021
+2020/21,AIP,government_expenditure_estimated_total,133.2,MWK billion,mwapata_wp2104_2021_aip_rapid,"Figure 1 'Estimated government expenditure on the AIP', printed p.5 (PDF p.6); text p.4","Figure source: GoM 2021. Text says 'program cost around MK 133 billion, with fertilizer comprising 84%'"
+2020/21,AIP,government_subsidy_per_farmer,37000,MWK per farmer (approx.),nation_2020_11_30_behind_aip_mess,"paragraph 'With AIP, government is expected to spend about K37 000...'",NEWS. Expected subsidy per farmer accessing inputs
+2020/21,AIP,households_projected_initial,4.2,million households,mwapata_wp2104_2021_aip_rapid,"Introduction, printed p.4-5","'Initially ... projected to cover 4.2 million households, though this number has been revised downward to approximately 3.7 million households (GoM, 2021)'"
+2020/21,AIP,households_redeemed,3455437,farming households,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",'redeemed their inputs'; source states this is 91 percent achievement. AER 2022 repeats the same figure
+2020/21,AIP,households_revised,3.7,million households (approximate),mwapata_wp2104_2021_aip_rapid,"Introduction, printed p.5","Conflicts with 3.8 million in mwapata_pb12 and WP44 Annex Table 2 and with 3,788,105 in AER 2021"
+2020/21,AIP,households_targeted_initial,4279100,farming households,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",Initial target; list then submitted to National Registration Bureau for validation
+2020/21,AIP,households_targeted_validated,3788105,farming households,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)","After NRB validation (duplicates, untraceable and deceased removed). AER 2022 (sec. 3.2.6) repeats the same figure"
+2020/21,AIP,programme_cost_estimate,133,MWK billion (approx.),mwapata_pb12_2021_aip_review,"Introduction, p.2","'program cost was estimated around MK133 billion, with fertilizer comprising 84%'"
+2020/21,AIP,redemption_rate,91,percent,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)","As stated (3,455,437 of 3,788,105)"
+2020/21,AIP,seed_sold,13497.51,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",Source: 68 percent of target
+2020/21,AIP,seed_target_initial,21396,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)","Same 21,396 MT appears as estimated cereal seed quantity in MoA 2020/21 seed tender (not saved)"
+2020/21,AIP,seed_target_revised,19145,metric tonnes,mof_aer_2021,"Sec. 3.2.6 Affordable Inputs Programme, printed p.26 (PDF p.29)",
+2020/21,AIP,total_cost,200,USD million,ifpri_massp_wp44_2024_fert_subsidies,"Annex Table 2 'Total costs (nominal)', printed p.23 (PDF p.26)",Stated as 'USD 200 million (1.7% GDP)'; printed p.12 says cost 'over 1.5 percent of Malawi's GDP in its inaugural season'
+2020/21,AIP,total_cost_share_gdp,1.7,percent of GDP,ifpri_massp_wp44_2024_fert_subsidies,"Annex Table 2, printed p.23 (PDF p.26)",
+2021/22,AIP,beneficiaries,3.7,million,ifpri_massp_wp44_2024_fert_subsidies,"Annex Table 2, printed p.23 (PDF p.26)",
+2021/22,AIP,beneficiaries_expected,3.7,million households,nation_2021_11_26_aip_redemption_18_5,last paragraph,NEWS. 'expected to benefit 3.7 million smallholder farming households with an allocation of K140.2 billion'
+2021/22,AIP,budget_allocated,141.9,MWK billion,mof_aer_2022,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.31 (PDF p.35)","'a total of MK141.9 billion has been allocated'. Conflict: Nation (26 Nov 2021, 30 Oct 2021, 5 Jan 2022) states K140.2 billion; Nation 30 May 2022 states K142 billion"
+2021/22,AIP,budget_allocated,140.2,MWK billion,nation_2021_10_30_chaos_in_aip,"paragraph 'During this financial year, AIP has been allocated K140.2 billion...'","NEWS. Of which K124.74 billion fertiliser, K1.26 billion goats, K12.25 billion seeds"
+2021/22,AIP,budget_fertiliser,124.74,MWK billion,nation_2021_10_30_chaos_in_aip,same paragraph,NEWS
+2021/22,AIP,budget_goats,1.26,MWK billion,nation_2021_10_30_chaos_in_aip,same paragraph,NEWS
+2021/22,AIP,budget_seed,12.25,MWK billion,nation_2021_10_30_chaos_in_aip,same paragraph,NEWS
+2021/22,AIP,cereal_seed_max,18571,metric tonnes,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)","'a maximum of 18,571MT of cereal seed'"
+2021/22,AIP,crop_beneficiaries_in_season,3714105,farmers,mof_aer_2022,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.31 (PDF p.35)","Written mid-season: 'In the current 2021/22 AIP season, there are 3,714,105 farmers who are benefitting in crop production'; plus 30,000 goat farmers"
+2021/22,AIP,fertiliser_allocated_npk,185705,metric tonnes,mof_aer_2022,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.31 (PDF p.35)",
+2021/22,AIP,fertiliser_allocated_urea,185705,metric tonnes,mof_aer_2022,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.31 (PDF p.35)",
+2021/22,AIP,fertiliser_provided_npk,185705,metric tonnes,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)",
+2021/22,AIP,fertiliser_provided_total,371411,metric tonnes,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)","'The program provided 371,411MT of fertilizer; a composition of 185,705MT of Urea and 185,705MT of NPK' (as printed)"
+2021/22,AIP,fertiliser_provided_urea,185705,metric tonnes,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)",
+2021/22,AIP,fertiliser_requirement,374000,metric tonnes (approx.),nation_2021_10_30_chaos_in_aip,paragraph 'Maganga said the AIP requires about 374 000 MT...',"NEWS. MoA Principal Secretary; differs from 371,411 MT in AER 2023"
+2021/22,AIP,fertiliser_subsidy_spending,120,MWK billion,ifpri_massp_pn46_2022_value_for_money,"p.1, first paragraph","Season assignment uncertain: note dated June 2022 says 'Last year, for example, this was MWK 120 billion (about US$ 150 million)'"
+2021/22,AIP,goat_beneficiaries_targeted,30000,households,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)",Chikwawa and Nsanje; two female goats each
+2021/22,AIP,government_subsidy_per_household,40000,MWK per participating household (approx.),ifpri_massp_pn43_2022_guiding_principles,p.1,"'the government spent about MWK 40,000 per participating household to subsidize 2 bags of fertilizer'"
+2021/22,AIP,households_redeemed_fertiliser,,beneficiaries,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)","Value printed as '3,4024,262' (malformed digit grouping) - not interpretable, left blank. Source states it represents 91 percent"
+2021/22,AIP,households_targeted,3762926,farming households,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)","Includes 30,000 goat beneficiaries in Chikwawa and Nsanje"
+2021/22,AIP,programme_cost,178.4,MWK billion,wb_agper_synthesis_2025,"Sec. 4.3 Functional Composition of Expenditure, PDF p.27",AgPER expenditure data; 'grow from MWK 54.7 billion ... in 2017/18 to MWK 178.4 billion (US$211.1 million) in 2021/22'
+2021/22,AIP,programme_cost,211.1,USD million,wb_agper_synthesis_2025,"Sec. 4.3, PDF p.27",
+2021/22,AIP,redemption_rate_fertiliser,91,percent,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)",'a 91 percent achievement in AIP'
+2021/22,AIP,seed_access_rate,71,percent of targeted beneficiaries,mof_aer_2023,"Sec. 3.2.6 Affordable Inputs Programme, printed p.28 (PDF p.31)","Of this, 57 percent hybrid maize, 14 percent OPV maize, less than one percent rice and sorghum"
+2021/22,AIP,seed_allocated,18571,metric tonnes,mof_aer_2022,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.31 (PDF p.35)","maize, sorghum and rice; unit implied MT ('total seed tonnage allocation of 18,571')"
+2021/22,AIP,total_cost,170,USD million,ifpri_massp_wp44_2024_fert_subsidies,"Annex Table 2, printed p.23 (PDF p.26)",'USD 170 million (1.3% GDP)'
+2022/23,AIP,beneficiaries_committed,2.47,million,ifpri_massp_pn47_2022_pricing_aip,"'Stated government commitments', p.2",Government commitment as of Nov 2022: one 50 kg bag NPK and one urea each
+2022/23,AIP,beneficiaries_targeted,2.5,million farming households,ifpri_massp_wp44_2024_fert_subsidies,Introduction printed p.2 (PDF p.5); Annex Table 2 printed p.23,'about two-thirds of all farming households'
+2022/23,AIP,budget_after_cut,97.5,MWK billion,nation_2022_11_06_aip_beneficiaries_trimmed,first paragraph,NEWS. 'cut the programme's budget from K109 billion to K97.5 billion'; conflicts with K109 billion 'approved by Parliament' in Nation 26 Jan 2023
+2022/23,AIP,budget_appropriated,109.4,MWK billion,ifpri_massp_pn47_2022_pricing_aip,"'Stated government commitments' and Table 1 notes, p.2",'total AIP budget as appropriated by parliament (MK 109.4 billion)'
+2022/23,AIP,budget_estimated_FY23,151,MWK billion,wb_mem19_2024_07,"Ch.1 Economic Developments, PDF p.20","'reducing the government budget for input subsidies provided through the AIP from an estimated MK 151 billion in FY23 to MK 103 billion in FY24'. Fiscal year, not season"
+2022/23,AIP,budget_national_budget,109.5,MWK billion,nation_2022_05_30_farmers_pay_more_aip,last paragraph,"NEWS. 'In the 2022/23 National Budget, AIP has claimed K109.5 billion'"
+2022/23,AIP,budget_target,109,MWK billion,wb_mem16_2022_12,"Ch.1, PDF p.21",'reiterating the Government's commitment to the MWK 109 billion budget target during this fiscal year' (Dec 2022)
+2022/23,AIP,cereal_seed_max,12418,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Closure paragraph uses a 12,369 MT target"
+2022/23,AIP,cereal_seed_packs_redeemed,1786326,packs,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,cereal_seed_redeemed,8931.53,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Against 12,369 MT target; 72.21 percent"
+2022/23,AIP,fertiliser_planned_initial,249050,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,fertiliser_redeemed_bags_total,3887366,50 kg bags,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,fertiliser_redeemed_total,194352.35,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Against target 247,384 MT; 78.57 percent"
+2022/23,AIP,fertiliser_redemption_rate,78.57,percent,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,fertiliser_required_each_npk_urea,123500,metric tonnes,ifpri_massp_pn47_2022_pricing_aip,"'Stated government commitments', p.2",Required for 2.47 million beneficiaries of each of NPK and urea
+2022/23,AIP,fertiliser_target_adjusted,248353,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","'comprising 124,177 MT each of NPK and urea' after cleaning and screening"
+2022/23,AIP,fertiliser_target_adjusted_npk,124177,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,fertiliser_target_adjusted_urea,124177,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,fertiliser_target_at_closure,247384,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Differs from 248,353 MT adjusted target stated earlier in the same section"
+2022/23,AIP,goat_beneficiaries_targeted,9526,households,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",Balaka and Rumphi; two female goats each
+2022/23,AIP,goats_planned_initial,21000,female goats,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,goats_redeemed,15096,goats,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Out of 16,451; 93.49 percent; goat retailing closed 17 March 2023"
+2022/23,AIP,goats_target_adjusted,19052,female goats,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,goats_target_at_closure,16451,goats,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,households_targeted,2483532,farming households,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Fertilizer and cereal seed; includes 9,526 goat households. Ombudsman Appendix 1 (in hand) gives 2,483,521 fertilizer + 9,526 livestock"
+2022/23,AIP,legume_seed_max,318,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","soybeans, beans, groundnuts"
+2022/23,AIP,legume_seed_sold,314,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",Against 318 MT; 98.62 percent; closed end Jan 2023 in Zomba district
+2022/23,AIP,npk_redeemed,104081.5,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Against 123,692 MT target (as printed at closure); 84.15 percent"
+2022/23,AIP,npk_redeemed_bags,2081641,50 kg bags,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",At programme closure
+2022/23,AIP,npk_redemption_rate,84.15,percent,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,npk_target_at_closure,123692,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Differs from 124,177 MT adjusted target stated earlier in the same section"
+2022/23,AIP,programme_cost,151,MWK billion,wb_agper_synthesis_2025,"Sec. 4.3, PDF p.27",'MWK 151 billion (US$151.3 million) in 2022/23'
+2022/23,AIP,programme_cost,151.3,USD million,wb_agper_synthesis_2025,"Sec. 4.3, PDF p.27",
+2022/23,AIP,redemption_rate_end_january,66,percent of beneficiaries (at least),nation_2023_01_26_825000_yet_aip,first paragraph,"NEWS. MoA: at least 66 percent of 2.5 million redeemed; 825,000 yet to access"
+2022/23,AIP,total_cost_provisional,210,USD million (approx.),ifpri_massp_wp44_2024_fert_subsidies,"Annex Table 2, printed p.23 (PDF p.26)",'Approx. USD 210 million (1.6% GDP)'; introduction says '(provisional) cost of about 1.6 percent of Malawi's GDP'
+2022/23,AIP,urea_redeemed,90270.85,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)","Against 123,692 MT target; 72.99 percent"
+2022/23,AIP,urea_redeemed_bags,1805725,50 kg bags,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,urea_redemption_rate,72.99,percent,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2022/23,AIP,urea_target_at_closure,123692,metric tonnes,mof_aer_2024,"Sec. 3.2.6 Affordable Inputs Programme (AIP), printed p.28-29 (PDF p.31-32)",
+2023/24,AIP,beneficiaries_planned,1.75,million,ifpri_massp_blog_2023_03_lean_aip,blog paragraph 1,MoA aim announced March 2023
+2023/24,AIP,beneficiaries_planned,1.5,million,ifpri_massp_wp44_2024_fert_subsidies,"Sec. 4, printed p.12 (PDF p.15)",'A further reduction in the size of the program to 1.5 million beneficiaries is planned for the 2023/24 growing season'
+2023/24,AIP,beneficiaries_planned_budget,1750000,farm families,mof_citizens_budget_2023_24,PDF p.4,Budget-stage plan; later reduced to about 1.5 million
+2023/24,AIP,beneficiaries_target_launch,1.49,million,nation_2023_11_02_govt_races_aip_target,paragraph 'When President Lazarus Chakwera launched the programme on October 20 2023...',NEWS. Target to reach all 1.49 million within 40 days
+2023/24,AIP,beneficiaries_targeted_crop,1501592,beneficiaries,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)","Fertilizer and seed, all districts"
+2023/24,AIP,beneficiaries_targeted_goats,9710,beneficiaries,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)","Phalombe, Balaka and Salima. Ombudsman and news give 9,750"
+2023/24,AIP,beneficiaries_targeted_total,1511302,beneficiaries,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)","Conflict: Ombudsman Appendix 1 (in hand) national total 1,500,000 (1,380,114 fertilizer + 9,750 livestock as printed)"
+2023/24,AIP,budget_allocated,117,MWK billion,ifpri_massp_blog_2023_03_lean_aip,blog paragraph 1 (22 Mar 2023),"'national budget for the upcoming fiscal year allocates K117 billion to the AIP, of which K110 billion is earmarked for fertilizer subsidies'. Conflicts with K109.8B in Citizens Budget"
+2023/24,AIP,budget_allocated,109.8,MWK billion,mof_citizens_budget_2023_24,"Key sector allocations graphic, PDF p.4","'K109.8B affordable input programme targeting 1,750,000 farm families. Each family will buy 2 bags.' (approved-budget planning figure)"
+2023/24,AIP,budget_allocated,109.8,MWK billion,nation_2023_10_18_aip_rolls_out,last paragraph,"NEWS (citing MoA): K102 billion fertiliser, K6.5 billion seed, K585 million goats, K67 million operations"
+2023/24,AIP,budget_estimated_FY24,103,MWK billion,wb_mem19_2024_07,"Ch.1, PDF p.20","Fiscal year FY24, 'estimated'"
+2023/24,AIP,budget_fertiliser,110,MWK billion,ifpri_massp_blog_2023_03_lean_aip,blog paragraph 1,
+2023/24,AIP,budget_fertiliser,102,MWK billion,nation_2023_10_18_aip_rolls_out,last paragraph,NEWS
+2023/24,AIP,budget_goats,585,MWK million,nation_2023_10_18_aip_rolls_out,last paragraph,NEWS
+2023/24,AIP,budget_operations,67,MWK million,nation_2023_10_18_aip_rolls_out,last paragraph,NEWS
+2023/24,AIP,budget_seed,6.5,MWK billion,nation_2023_10_18_aip_rolls_out,last paragraph,NEWS
+2023/24,AIP,cereal_seed_allocated,7455,metric tonnes,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)",
+2023/24,AIP,cereal_seed_redeemed,6299.54,metric tonnes,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)",84.49 percent
+2023/24,AIP,fertiliser_allocated,149025,metric tonnes,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)",Evenly split between NPK and urea; distributed via SFFRFM
+2023/24,AIP,fertiliser_redeemed,133597.45,metric tonnes,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)",By end of season; 89.64 percent of allocation
+2023/24,AIP,fertiliser_redemption_rate,89.64,percent,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)",
+2023/24,AIP,fertiliser_required,149025,metric tonnes,nation_2023_10_18_aip_rolls_out,paragraph 'The minister disclosed that the total fertiliser required...',"NEWS. 122,000 MT procured through current budget (Minister Kawale)"
+2023/24,AIP,goats_allocated,19500,female goats,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)",
+2023/24,AIP,goats_redeemed,17151,goats,mof_aer_2025,"Sec. 3.2.6 Affordable Inputs Programme, printed p.30-31 (PDF p.33-34)",87 percent
+2023/24,AIP,programme_cost,110,MWK billion,wb_agper_synthesis_2025,"Sec. 4.3, PDF p.27",'MWK 110 billion (US$78.7 million) in 2023/24'
+2023/24,AIP,programme_cost,78.7,USD million,wb_agper_synthesis_2025,"Sec. 4.3, PDF p.27",
+2023/24,AIP,redemption_rate_29dec2023,81.6,percent of targeted households,nyasatimes_2023_12_31_kawale_81pct,first paragraph,NEWS. As of 29 Dec 2023 (Minister Kawale)
+2023/24,AIP,redemption_rate_feb2024,94,percent of farmers (at least),nyasatimes_2024_02_27_kawale_94pct,first paragraph,NEWS. As of 27 Feb 2024
+2023/24,AIP,treasury_released,103,MWK billion,nation_2023_10_18_aip_rolls_out,paragraph 'The minister attributed the delays...',NEWS. K59 billion + K44 billion as stated by Minister
+2024/25,AIP,beneficiaries,1050000,farming households,nation_2024_12_21_central_region_aip,"paragraph 'In the current fiscal year, the subsidy programme is benefiting...'",NEWS. 'down from 1 500 000'
+2024/25,AIP,beneficiaries,1054945,smallholder farmers,nyasatimes_2024_10_07_aip_all_set,"paragraph 'Kawale said 1,054,945 smallholder farmers will benefit'",NEWS (Minister's press briefing 7 Oct 2024)
+2024/25,AIP,beneficiaries_targeted_crop,1048445,beneficiaries,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",
+2024/25,AIP,beneficiaries_targeted_livestock,6500,beneficiaries,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",
+2024/25,AIP,beneficiaries_targeted_total,1054945,smallholder farmers,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",AER 2026 labels the 2024/25 programme 'Farm Input Subsidy Programme' (AIP was renamed after the 2025 change of government)
+2024/25,AIP,budget_allocated,161.28,MWK billion,mof_budget_statement_2024_25,"Budget Policy Statement para. 86 'Affordable Inputs Programme', PDF p.36",
+2024/25,AIP,fertiliser_distributed_4nov2024,10403.2,metric tonnes,nation_2024_12_12_fum_fertiliser_prices,paragraph 'The AIP targeting 1 054 945 beneficiaries...',NEWS. 'of the required 104 000MT of fertiliser distributed as of November 4 2024'
+2024/25,AIP,fertiliser_from_carryover,102845,metric tonnes,nyasatimes_2024_10_07_aip_all_set,same paragraph,NEWS. As printed; plausibility not verified
+2024/25,AIP,fertiliser_procured,105000,metric tonnes,wb_mem20_2025_01,"Ch.1 Recent Economic Developments, PDF p.20","'only 23.8 percent of the 105,000 MT of AIP-procured fertilizer had been accessed at the start of the planting season in December 2024'"
+2024/25,AIP,fertiliser_required,104845,metric tonnes,nyasatimes_2024_10_07_aip_all_set,paragraph 'The total amount of fertilizer required...',"NEWS. 'of which 102,845 MT is from the carry over stocks' (as printed)"
+2024/25,AIP,fertiliser_target_npk,52422.25,metric tonnes,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",Distribution managed by SFFRFM
+2024/25,AIP,fertiliser_target_urea,52422.25,metric tonnes,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",
+2024/25,AIP,goats_redeemed,10430,goats,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)","Out of 13,000 targeted; 80 percent"
+2024/25,AIP,goats_targeted,13000,goats,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",
+2024/25,AIP,npk_redeemed,34425,metric tonnes,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",Cumulative as of 30 March 2025; 66 percent; programme not officially closed (footnote 2)
+2024/25,AIP,programme_cost_estimated,161,MWK billion,wb_agper_synthesis_2025,"Sec. 4.3, PDF p.27",'expected to rise again and reach an estimated MWK 161 billion (US$96.8 million) in 2024/25'
+2024/25,AIP,programme_cost_estimated,96.8,USD million,wb_agper_synthesis_2025,"Sec. 4.3, PDF p.27",
+2024/25,AIP,seed_packs_redeemed,748928,5 kg packs,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",72 percent of allocated seed
+2024/25,AIP,share_accessed_dec2024,23.8,percent of AIP-procured fertilizer,wb_mem20_2025_01,"Ch.1, PDF p.20",
+2024/25,AIP,urea_redeemed,38495,metric tonnes,mof_aer_2026,"Sec. 3.2.6 Farm Input Subsidy Programme, printed p.27-28 (PDF p.30-31)",Cumulative as of 30 March 2025; 73 percent; programme not officially closed
